@@ -11,6 +11,7 @@
 - 🌐 Atuo como Desenvolvedor Web e Backend, com foco em APIs, microsserviços e integração de sistemas.  
 - 🚀 Experiência com linguagens como Go, JavaScript (Node.js e TypeScript), PHP e Python (para engenharia de dados).  
 - 🧠 Conhecimento em bancos de dados relacionais e não-relacionais como PostgreSQL, MySQL e MongoDB.  
+- 🔧 Utilizo Git e GitHub como ferramentas de versionamento e colaboração em projetos.  
 - 📊 Familiaridade com metodologias ágeis como Scrum e Kanban.  
 - 🎯 Busco sempre desenvolver soluções eficientes e inovadoras para o mercado de tecnologia.
 
@@ -29,6 +30,7 @@
 <img height="28px" alt="Python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
 <img height="28px" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img height="28px" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img height="28px" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img height="28px" alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img height="28px" alt="GitHub" src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
 <img height="28px" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
