@@ -1,69 +1,90 @@
+<!-- thomazique/thomazique/README.md -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0073e6&height=120&section=header" alt="Blue Waves" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0073e6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Thomaz;Analista+de+Dados;Transformando+dados+em+insights;Especialista+em+SQL+e+Dashboards;Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0073e6&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+eu+sou+Thomaz;Applied+AI+Engineer;Orquestra%C3%A7%C3%A3o+de+agentes+com+LangGraph;Sistemas+web+e+solu%C3%A7%C3%B5es+inteligentes;Harness,+MCP+e+automa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 <br />
 
-## 📊 Sobre mim
+## 🤖 Sobre mim
 
-- 📈 Apaixonado por transformar dados brutos em informações estratégicas para tomada de decisão.
-- 🎓 Estudante de Engenharia da Computação pela Descomplica Faculdade Digital.
-- 💼 Analista de Dados com foco em SQL, dashboards interativos e automação de relatórios.
-- 🔍 Experiência em extração, limpeza, modelagem e visualização de dados.
-- 📊 Domínio de ferramentas como Power BI, Python (Pandas, Matplotlib) e SQL (PostgreSQL, MySQL).
-- 🧩 Conhecimento em ETL, análise exploratória de dados (EDA) e criação de KPIs.
-- 📉 Habilidade em identificar padrões, tendências e oportunidades de negócio através dos dados.
-- 🎯 Busco sempre gerar valor através de análises precisas e dashboards que facilitam decisões estratégicas.
+- 🧠 **Applied AI Engineer** — construo sistemas web e soluções inteligentes com IA generativa em produção, não em slide.
+- 🕸️ Orquestração de agentes com **LangGraph** e **LangChain**: fluxos multi-etapa, roteamento condicional, human-in-the-loop e checkpoint persistente.
+- 🔭 Observabilidade de LLM com **Langfuse** — traces, sessions e avaliação contínua da qualidade das respostas.
+- 🛠️ Construção de **harness** para agentes de código: separação estrita de papéis (writer/reviewer/tester/supervisor), aprovação via artefato e ferramental próprio.
+- 🔌 **MCP (Model Context Protocol)** para expor contexto e ferramentas aos agentes de forma padronizada.
+- ⚙️ Automação de ponta a ponta: migração de workflows visuais (**n8n → Python**), OCR/VLM, extração e estruturação de dados.
+- 🏗️ Base sólida de engenharia: **Python**, **PostgreSQL**, **Airflow**, **Laravel** e **Vue 3 + TypeScript** — o agente é só a ponta; o sistema em volta é que sustenta.
+- 🎓 Engenharia de Computação em andamento · Sinop, MT.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🧩 Stack
 
-### **Análise e Visualização**
+### **IA & Agentes**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img height="28px" alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img height="28px" alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img height="28px" alt="Metabase" src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
-<img height="28px" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img height="28px" alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
+<img height="28px" alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img height="28px" alt="Langfuse" src="https://img.shields.io/badge/Langfuse-0073e6?style=for-the-badge&logoColor=white" />
+<img height="28px" alt="MCP" src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img height="28px" alt="RAG" src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge&logoColor=white" />
+<img height="28px" alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logoColor=white" />
 </div>
 
-### **Bancos de Dados**
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img height="28px" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img height="28px" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img height="28px" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img height="28px" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-
-### **Linguagens e Análise**
+### **Backend & APIs**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img height="28px" alt="Python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
-<img height="28px" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img height="28px" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img height="28px" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img height="28px" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img height="28px" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img height="28px" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img height="28px" alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </div>
 
-### **Ferramentas de Desenvolvimento**
+### **Frontend**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img height="28px" alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img height="28px" alt="GitHub" src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+<img height="28px" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+<img height="28px" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img height="28px" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img height="28px" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</div>
+
+### **Dados & Orquestração**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img height="28px" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img height="28px" alt="Apache Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img height="28px" alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img height="28px" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</div>
+
+### **Infra & DevOps**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img height="28px" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img height="28px" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img height="28px" alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img height="28px" alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img height="28px" alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
 
-## 📂 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-🔹 **[Análise de Vendas - Retail](link)** | Power BI + SQL  
-🔹 **[Gestão de Estoque e Precificação](link)** | PostgreSQL + Dashboard  
-🔹 **[Análise de Conteúdo - Streaming](link)** | Python (Pandas) + Visualização  
+🔹 **[Kóreion](link)** — Harness multi-agente de código construído do zero. LangGraph com `interrupt()`/`Command(resume=...)`, checkpointer em Postgres, MCP HTTP próprio para contexto de código e Git worktrees como mecanismo de artefato e aprovação.
+
+🔹 **[Transcrição + RAG de documentos](link)** — Pipeline FastAPI de extração via OCR/VLM com RAG para casamento de códigos padronizados, instrumentado com Langfuse.
+
+🔹 **[Prev.ia](link)** — Motor de correlação entre notícias e Ibovespa: coletores RSS, base OHLCV em PostgreSQL e validação de correlação em janelas t+1d/3d/7d.
+
+🔹 **[MAC](link)** — Runtime neuromórfico em Rust (neurônios LIF + sinapses STDP) como estudo de arquitetura fora do modelo von Neumann.
+
+🔹 **[Vyas Hub](link)** — Plataforma corporativa full-stack (Laravel 12 + Vue 3 + TS + PostgreSQL) com Sanctum, RBAC granular e views em tempo real.
+
+🔹 **[Promax Automation Suite](link)** — 70+ pipelines Python em padrão declarativo, sessão multi-filial e orquestração via Airflow (~400 relatórios/dia).
 
 ---
 
 ## 🌐 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/thomaz-henrique-8a820ab2/" target="_blank">
+<a href="https://www.linkedin.com/in/thomaz-henrique-da-silveira/" target="_blank">
   <img height="28px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/thomazique" target="_blank">
